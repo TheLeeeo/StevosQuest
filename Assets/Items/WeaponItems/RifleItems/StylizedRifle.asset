@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a373de2bf1be240ad8b74699149204ab, type: 3}
+  m_Name: StylizedRifle
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: 21300000, guid: 503b724c2d5d54b69965d343f8ba6ef8, type: 3}
+  itemName: Stylized rifle
+  itemObject: {fileID: 413276528865009886, guid: 43f8fa206604640ff8c23b3b46096074,
+    type: 3}
+  ItemIdentifier: 206
+  itemTooltip: When "artists touch" goes too far
+  itemStats: []
+  scalesWithPower: 1
+  weaponType: 2
+  ammoType: 3
+  damage: 12
+  currentAmmo: 0
+  magazineSize: 14
+  timeToReload: 2
+  accuracy: 80
+  firerate: 0.3
+  bulletSpeed: 17
+  armorPiercing: 1

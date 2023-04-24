@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a373de2bf1be240ad8b74699149204ab, type: 3}
+  m_Name: StrangePistol
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: 21300000, guid: 48dfb547b6a6941729c35c2794589ebd, type: 3}
+  itemName: Strange Pistol
+  itemObject: {fileID: 5308888013870483371, guid: 1fef3d272ea3547d4b40b62ed82bcd35,
+    type: 3}
+  ItemIdentifier: 195
+  itemTooltip: It looks strange
+  itemStats: []
+  scalesWithPower: 1
+  weaponType: 0
+  ammoType: 0
+  damage: 9
+  currentAmmo: 0
+  magazineSize: 11
+  timeToReload: 1.1
+  accuracy: 90
+  firerate: 0.4
+  bulletSpeed: 15
+  armorPiercing: 1

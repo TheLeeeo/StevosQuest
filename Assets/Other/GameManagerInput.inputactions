@@ -1,0 +1,79 @@
+{
+    "name": "GameManagerInput",
+    "maps": [
+        {
+            "name": "GameState",
+            "id": "b9892f76-a5a1-4451-9f7c-399d503a52d8",
+            "actions": [
+                {
+                    "name": "Restart",
+                    "type": "Button",
+                    "id": "a3935d7f-49aa-470f-b3f8-451753a116d4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6e1d3c53-859b-437c-9012-5590e24d9c51",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Restart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Cutscene",
+            "id": "6d089412-be2a-44e8-b429-ee701fb45610",
+            "actions": [
+                {
+                    "name": "Skip",
+                    "type": "Button",
+                    "id": "7d3c88a2-c8db-4e37-b5f9-29a65d1eca57",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "NextPhrase",
+                    "type": "Button",
+                    "id": "69f89b0f-32fe-4f17-ac5f-558faeae55b4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6f36ce55-a747-4c11-9de9-f9abcca7490b",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Skip",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4fd291e5-5eb3-44b2-9efd-7df41978a954",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "NextPhrase",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

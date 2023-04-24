@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ac77f576bd644996abbf186b356741a, type: 3}
+  m_Name: DefaultAmmoTable
+  m_EditorClassIdentifier: 
+  itemReferences:
+  - item:
+      itemData: {fileID: 11400000, guid: c7616ea4026824faaa495132c9d3abb9, type: 2}
+    weight: 8
+  - item:
+      itemData: {fileID: 11400000, guid: ca4db282af8d5445d99b654c7015cbc9, type: 2}
+    weight: 8
+  - item:
+      itemData: {fileID: 11400000, guid: 18d62417ad744414a94e13ffb1592b4b, type: 2}
+    weight: 8
+  - item:
+      itemData: {fileID: 11400000, guid: db0550b4861b044bbbd5d79534ac166d, type: 2}
+    weight: 8
+  - item:
+      itemData: {fileID: 11400000, guid: 963a9553e93924b669547dbed7e10657, type: 2}
+    weight: 6
+  - item:
+      itemData: {fileID: 11400000, guid: adf8f2e84ab0542f1a62387e41e6105a, type: 2}
+    weight: 5
+  - item:
+      itemData: {fileID: 11400000, guid: 320def5427e31491f932d46666e7a070, type: 2}
+    weight: 5
+  - item:
+      itemData: {fileID: 11400000, guid: a0454b82995474d37b8bd60032cd6155, type: 2}
+    weight: 4

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 931401816a71546adae93e8ba0e270f8, type: 3}
+  m_Name: FireGrenade
+  m_EditorClassIdentifier: 
+  itemType: 3
+  itemSprite: {fileID: 21300000, guid: d892b654d853d49c9bbf330b5ab88663, type: 3}
+  itemName: Fire Grenade
+  itemObject: {fileID: 3657221776566890209, guid: b8dec0bfff68841bdaa5a6919ea6ebf9,
+    type: 3}
+  ItemIdentifier: 155
+  itemTooltip: Not an alternative to matches
+  itemStats:
+  - color: {r: 1, g: 0.46219262, b: 0, a: 0}
+    statName: Fire
+    value: 0
+    scaleWithPower: 0
+  scalesWithPower: 1
+  stackSize: 10

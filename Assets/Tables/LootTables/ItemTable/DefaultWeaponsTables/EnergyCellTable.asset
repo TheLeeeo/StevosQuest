@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b0860bcee6b8449a865b10138b20562, type: 3}
+  m_Name: EnergyCellTable
+  m_EditorClassIdentifier: 
+  itemReferences:
+  - item:
+      itemData: {fileID: 11400000, guid: 6dc033918e03d436081128f446849062, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: b6c02c11aa8d2450eb6df3575b2596ed, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 11dc50dbb641843d7b8bf547759b1955, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: c83ea5e8659a34144aafcc8c87c8791d, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 84e070c9684e84d57a6abe659c07be92, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: def90ca0f30ac4883bfb5425051ff8a8, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 733c804fc2c75451b86df4bf73f225dd, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: db56a40b0dd764dc5a9466dba295dc82, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1

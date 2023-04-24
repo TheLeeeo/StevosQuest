@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4b98af35c03f465097525932a854705, type: 3}
+  m_Name: BlueSneakers
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: -8065932406811959397, guid: 395ba08f3a78a4d3aaba47cc2099a2a0,
+    type: 3}
+  itemName: Blue Sneaker
+  itemObject: {fileID: 7715230247941950386, guid: cb11a76cffb6b4ee9a49d5030be94150,
+    type: 3}
+  ItemIdentifier: 40
+  itemTooltip: Collect a full colored set for a buff
+  itemStats: []
+  scalesWithPower: 1
+  armorType: 3
+  armor: 10
+  footSprite: {fileID: -7989864817453126064, guid: 395ba08f3a78a4d3aaba47cc2099a2a0,
+    type: 3}

@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b0860bcee6b8449a865b10138b20562, type: 3}
+  m_Name: CompleteUtilityTable
+  m_EditorClassIdentifier: 
+  itemReferences:
+  - item:
+      itemData: {fileID: 11400000, guid: 2d3b6a435ff5c4f7fbc6506a85393adf, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 5
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 6d2b275ada04b49b28be05c17e882496, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 10
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 883891a826935452d8fca99af04fcbb0, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 10
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: d95618623ac54473c90294903713aeef, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 10
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 1565a995617a5429eaf4de80258db0bb, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 3
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: a96cd111513374a029b17c0e5b442842, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 10
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 9faa8f54b0c5a409691f3bf210efcb1c, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 5
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 5ba1922dd809e4fd8b95eb3cb215b097, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 10
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 4b3dc3f1044584d53adbe51dc903e2f5, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 10
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: f9e480492800f4b9e89659d5d5b4d64f, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 10
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: e6bde3ce534dc405cad87fecb38eea09, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 10
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: bc2a29bb1a971430ab7a37f1076a0474, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 5
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: e7aac9e8bdbc04e018dab91ad67274f7, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 10
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: c489078aa7b7f4d18971794a87630ab1, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 3
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 5404ac44351d04f8ba5dda141a1828f3, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 3
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 69675c2c6bc914e5296d08086ab4e48e, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 10
+    weight: 1

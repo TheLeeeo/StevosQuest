@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9b3ffb69e674ec5b5692f2c4baf053, type: 3}
+  m_Name: YellowTShirt
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: 3706564341304244370, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  itemName: Yellow T-Shirt
+  itemObject: {fileID: 7715230247941950386, guid: b73b9e490198c4b8fb1735033de37072,
+    type: 3}
+  ItemIdentifier: 24
+  itemTooltip: Collect a full colored set for a buff
+  itemStats: []
+  scalesWithPower: 1
+  armorType: 1
+  armor: 10
+  chestSprite: {fileID: 4404631660362975250, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  shoulderSprite: {fileID: 7779976366110996639, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a373de2bf1be240ad8b74699149204ab, type: 3}
+  m_Name: MassProducedWeapon
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: 21300000, guid: 9267da7ec19e74754acf05a8633487d6, type: 3}
+  itemName: Massproduced Rifle
+  itemObject: {fileID: 413276528865009886, guid: 25f0041032277441ea22027510ee4d38,
+    type: 3}
+  ItemIdentifier: 201
+  itemTooltip: Very cheap to make
+  itemStats: []
+  scalesWithPower: 1
+  weaponType: 2
+  ammoType: 3
+  damage: 12
+  currentAmmo: 0
+  magazineSize: 14
+  timeToReload: 2
+  accuracy: 80
+  firerate: 0.25
+  bulletSpeed: 18
+  armorPiercing: 1

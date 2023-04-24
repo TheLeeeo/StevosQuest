@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 931401816a71546adae93e8ba0e270f8, type: 3}
+  m_Name: IceStaff
+  m_EditorClassIdentifier: 
+  itemType: 3
+  itemSprite: {fileID: -6733838880084558565, guid: 6877496b7b59a4d5ab44340c9fbc6f30,
+    type: 3}
+  itemName: Ice Staff
+  itemObject: {fileID: 3657221776566890209, guid: 11f10ad235cf746759326a02f32abc0e,
+    type: 3}
+  ItemIdentifier: 160
+  itemTooltip: It will freeze your butt off
+  itemStats:
+  - color: {r: 0, g: 0.6942835, b: 1, a: 1}
+    statName: Spawns a cloud of ice
+    value: 0
+    scaleWithPower: 0
+  scalesWithPower: 1
+  stackSize: 20

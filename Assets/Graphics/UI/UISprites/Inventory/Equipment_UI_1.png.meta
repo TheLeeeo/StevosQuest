@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: d23de0d5f682d48a4a6400e6c78b4a85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5906992961469680713
+    second: Equipment_RarityFrame_Broken
+  - first:
+      213: 6672534565528679037
+    second: Equipment_RarityFrame_Common
+  - first:
+      213: 5512715650222207932
+    second: Equipment_RarityFrame_Uncommon
+  - first:
+      213: -2861780220219064607
+    second: Equipment_RarityFrame_Rare
+  - first:
+      213: -6759621170214441837
+    second: Equipment_RarityFrame_Epic
+  - first:
+      213: -6965951027669723804
+    second: Equipment_RarityFrame_Legendary
+  - first:
+      213: -5591019136092670893
+    second: Equipment_3Slot
+  - first:
+      213: -7473190675847834136
+    second: Equipment_2Slot
+  - first:
+      213: -183944775275629950
+    second: Equipment_1Slot
+  - first:
+      213: 128775694748211498
+    second: Equipment_StatPage1
+  - first:
+      213: 1538425220474071751
+    second: Equipment_StatPage2
+  - first:
+      213: -4544893986081998716
+    second: Equipment_CompareBar_5Slot
+  - first:
+      213: -7488430745798099375
+    second: Equipment_CompareBar_4Slot
+  - first:
+      213: 2503478540245682026
+    second: Equipment_Cross
+  - first:
+      213: 3722031501434290515
+    second: Equipment_BigActiveBox
+  - first:
+      213: 164026429604709132
+    second: Equipment_1Shot1LongSlot
+  - first:
+      213: 14855794894944001
+    second: Equipment_RarityFrame_Default
+  - first:
+      213: -7383106016397650089
+    second: Equipment_CompareBar_2Slot
+  - first:
+      213: -8749278957854969445
+    second: Equipment_ActiveBox
+  - first:
+      213: 1180732869732384686
+    second: Equipment_HighlightBox
+  - first:
+      213: 3636842062757660346
+    second: Equipment_BigHighlightBox
+  - first:
+      213: 7277836492141704830
+    second: Equipment_NoSlot
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Equipment_RarityFrame_Broken
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 120
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3fdd8b235260ea0800000000000000
+      internalID: -5906992961469680713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_RarityFrame_Common
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 120
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d723ad1b5da999c50800000000000000
+      internalID: 6672534565528679037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_RarityFrame_Uncommon
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 120
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb33b3f1da9118c40800000000000000
+      internalID: 5512715650222207932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_RarityFrame_Rare
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3
+        width: 120
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee7a945d0ae848d0800000000000000
+      internalID: -2861780220219064607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_RarityFrame_Epic
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2
+        width: 120
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c68251c500132a0800000000000000
+      internalID: -6759621170214441837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_RarityFrame_Legendary
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2
+        width: 120
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4659af09278f35f90800000000000000
+      internalID: -6965951027669723804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_3Slot
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 6
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f8ccd7b5b862b0800000000000000
+      internalID: -5591019136092670893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_2Slot
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 6
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5145bcca4e94890800000000000000
+      internalID: -7473190675847834136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_1Slot
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 6
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2823863933f727df0800000000000000
+      internalID: -183944775275629950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_StatPage1
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 36
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29db25efc089c100800000000000000
+      internalID: 128775694748211498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_StatPage2
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 36
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caebdb4695995510800000000000000
+      internalID: 1538425220474071751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_CompareBar_5Slot
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 32
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488f5c1effa4de0c0800000000000000
+      internalID: -4544893986081998716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_CompareBar_4Slot
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 16
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e379f79efb31890800000000000000
+      internalID: -7488430745798099375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_Cross
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a674826e7742eb220800000000000000
+      internalID: 2503478540245682026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_BigActiveBox
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 116
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3510ecd2eef47a330800000000000000
+      internalID: 3722031501434290515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_1Shot1LongSlot
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 6
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c034d5e2b2db64200800000000000000
+      internalID: 164026429604709132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_RarityFrame_Default
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2
+        width: 120
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b1994447c43000800000000000000
+      internalID: 14855794894944001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_CompareBar_2Slot
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 48
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75791990230f98990800000000000000
+      internalID: -7383106016397650089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_ActiveBox
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 84
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91314cb421549680800000000000000
+      internalID: -8749278957854969445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_HighlightBox
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 52
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafb60b0a4ec26010800000000000000
+      internalID: 1180732869732384686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_BigHighlightBox
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 20
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68ed65698a87230800000000000000
+      internalID: 3636842062757660346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equipment_NoSlot
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 6
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e763b7fdab1100560800000000000000
+      internalID: 7277836492141704830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

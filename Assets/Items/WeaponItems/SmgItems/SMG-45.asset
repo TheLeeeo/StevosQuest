@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a373de2bf1be240ad8b74699149204ab, type: 3}
+  m_Name: SMG-45
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: 21300000, guid: 70e56d9f3c2ac4a89a2b892a6472f8b1, type: 3}
+  itemName: SMG-45
+  itemObject: {fileID: 6684154168753208166, guid: e5ab6b14d7da6436b8d49abccf0e83d2,
+    type: 3}
+  ItemIdentifier: 221
+  itemTooltip: Strong for its weight
+  itemStats: []
+  scalesWithPower: 1
+  weaponType: 1
+  ammoType: 1
+  damage: 6
+  currentAmmo: 0
+  magazineSize: 12
+  timeToReload: 1.5
+  accuracy: 80
+  firerate: 0.3
+  bulletSpeed: 20
+  armorPiercing: 0.6

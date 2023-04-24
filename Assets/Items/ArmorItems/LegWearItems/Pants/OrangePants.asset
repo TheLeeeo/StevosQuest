@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8c7ddd118f7143be8b7f6b9f0cd9e50, type: 3}
+  m_Name: OrangePants
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: -3177627898836137590, guid: d777223795d884530aada98efb0f69c2,
+    type: 3}
+  itemName: Orange Pants
+  itemObject: {fileID: 7715230247941950386, guid: a171f66fff29342dcb57a986f31bcab3,
+    type: 3}
+  ItemIdentifier: 105
+  itemTooltip: Collect a full colored set for a buff
+  itemStats: []
+  scalesWithPower: 1
+  armorType: 2
+  armor: 10
+  upperLegSprite: {fileID: -747936282509538862, guid: d777223795d884530aada98efb0f69c2,
+    type: 3}
+  lowerLegSprite: {fileID: 2161640015195566336, guid: d777223795d884530aada98efb0f69c2,
+    type: 3}

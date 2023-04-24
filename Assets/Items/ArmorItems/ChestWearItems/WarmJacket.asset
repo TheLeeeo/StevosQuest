@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9b3ffb69e674ec5b5692f2c4baf053, type: 3}
+  m_Name: WarmJacket
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: 5326591566731563083, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  itemName: Warm Jacket
+  itemObject: {fileID: 7355773448628125552, guid: 02c2c9928d2494c52ac54869c3697e32,
+    type: 3}
+  ItemIdentifier: 25
+  itemTooltip: Cozy
+  itemStats:
+  - color: {r: 0, g: 0.3885045, b: 1, a: 1}
+    statName: Immune to the cold
+    value: 0
+    scaleWithPower: 0
+  scalesWithPower: 1
+  armorType: 1
+  armor: 5
+  chestSprite: {fileID: 8499062616496095679, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  shoulderSprite: {fileID: 4861080219056525048, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}

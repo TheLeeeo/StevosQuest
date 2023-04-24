@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119111843247843a3b59d6dbd6f19fcb, type: 3}
+  m_Name: BruteHelmet_Gold
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: -3520808594005192163, guid: 17d68c4a1116a45599d89250779bdb81,
+    type: 3}
+  itemName: Golden Brute Helmet
+  itemObject: {fileID: 7715230247941950386, guid: 1caf0ccca75ad44949d6f7b3cd95d0d3,
+    type: 3}
+  ItemIdentifier: 51
+  itemTooltip: 
+  itemStats: []
+  scalesWithPower: 1
+  armorType: 0
+  armor: 20

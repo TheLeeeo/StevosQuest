@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a373de2bf1be240ad8b74699149204ab, type: 3}
+  m_Name: BIGShotgun
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: 21300000, guid: 98f73a8eb0d154464a295202d320ea02, type: 3}
+  itemName: BIG Shotgun
+  itemObject: {fileID: 413276528865009886, guid: 3c143c6212e3d47a28cb3c9a2ae7ebb7,
+    type: 3}
+  ItemIdentifier: 211
+  itemTooltip: Big, huge even
+  itemStats: []
+  scalesWithPower: 1
+  weaponType: 3
+  ammoType: 2
+  damage: 2
+  currentAmmo: 0
+  magazineSize: 5
+  timeToReload: 1.5
+  accuracy: 45
+  firerate: 0.75
+  bulletSpeed: 18
+  armorPiercing: 1

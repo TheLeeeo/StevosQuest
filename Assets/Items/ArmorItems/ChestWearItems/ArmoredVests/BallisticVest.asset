@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9b3ffb69e674ec5b5692f2c4baf053, type: 3}
+  m_Name: BallisticVest
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: 6800871473378233394, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  itemName: Ballistic Vest
+  itemObject: {fileID: 7715230247941950386, guid: 1caf0ccca75ad44949d6f7b3cd95d0d3,
+    type: 3}
+  ItemIdentifier: 10
+  itemTooltip: 
+  itemStats: []
+  scalesWithPower: 1
+  armorType: 1
+  armor: 70
+  chestSprite: {fileID: -1722722728150929444, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  shoulderSprite: {fileID: 8322665274642746122, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}

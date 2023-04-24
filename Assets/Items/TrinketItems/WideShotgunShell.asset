@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43252368661304ba49dbafb7f29144ad, type: 3}
+  m_Name: WideShotgunShell
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemSprite: {fileID: 21300000, guid: 806a925fa59b043ada31fae100426905, type: 3}
+  itemName: Wide Shotgunshell
+  itemObject: {fileID: 7993431273864843906, guid: eb950ca509ea74dafb68bd24834114e4,
+    type: 3}
+  ItemIdentifier: 148
+  itemTooltip: How does this even fit?
+  itemStats:
+  - color: {r: 0, g: 1, b: 0.57643056, a: 1}
+    statName: More pellets
+    value: 0
+    scaleWithPower: 0
+  scalesWithPower: 1
+  fullDurability: 3

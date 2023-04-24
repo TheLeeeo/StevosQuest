@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f408d6d71d024656b90fb395d8c3e30, type: 3}
+  m_Name: RegenerationData
+  m_EditorClassIdentifier: 
+  EffectName: Regeneration
+  ToolTip: Regenerates health over time
+  EffectSprite: {fileID: -777239809488622784, guid: 2c9770fa704b5406cb46d56f7b264a7a,
+    type: 3}
+  IsNegative: 0
+  EffectType: 7
+  EffectObject: {fileID: 8872675919140680308, guid: 41eaf58e482f244a0adf326c4cd02fdd,
+    type: 3}

@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 17d68c4a1116a45599d89250779bdb81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1182784195508335311
+    second: CowboyHat
+  - first:
+      213: -5926832121448541893
+    second: FancyHat
+  - first:
+      213: -7278322918618094238
+    second: SlightlyLongerHat
+  - first:
+      213: -7566031879410477842
+    second: PenisHat
+  - first:
+      213: 3432692127742862960
+    second: ChristmastreeHat
+  - first:
+      213: -297406284525985868
+    second: TreeHat
+  - first:
+      213: 3166322270659734654
+    second: Buckethat_Black
+  - first:
+      213: 4610963139571275592
+    second: Buckethat_Orange
+  - first:
+      213: 9162939207420126677
+    second: RainbowBuckethat
+  - first:
+      213: -3983173933862562825
+    second: Beanie_Black
+  - first:
+      213: 2424335182235190627
+    second: RainbowCap
+  - first:
+      213: 5601173171704131531
+    second: RainbowBeanie
+  - first:
+      213: 5192709395824545520
+    second: Beanie_Orange
+  - first:
+      213: -5731613197636440256
+    second: Cap_Black
+  - first:
+      213: 3755019472735050316
+    second: Cap_Red
+  - first:
+      213: -7400595620195443294
+    second: VikingHelmet_Gold
+  - first:
+      213: -3520808594005192163
+    second: BruteHelmet_Gold
+  - first:
+      213: 3009942717975221980
+    second: Cap_Pink
+  - first:
+      213: 939431744257372135
+    second: Cap_White
+  - first:
+      213: -8194037928304054366
+    second: VikingHelmet_Silver
+  - first:
+      213: 8950923583769673725
+    second: BruteHelmet_Silver
+  - first:
+      213: 9072263205368420533
+    second: Cap_Orange
+  - first:
+      213: -4207433429535434463
+    second: Cap_Green
+  - first:
+      213: -6785748856774975854
+    second: VikingHelmet_Bronze
+  - first:
+      213: -7105314864320307977
+    second: BruteHelmet_Bronze
+  - first:
+      213: 5098903294060115713
+    second: FoilHat
+  - first:
+      213: 5888827166919099701
+    second: Cap_Blue
+  - first:
+      213: -5406051116859579710
+    second: Cap_Purple
+  - first:
+      213: -7250539682165221734
+    second: WarHelmet_Gold
+  - first:
+      213: -6774829315578323270
+    second: WarHelmet_Silver
+  - first:
+      213: -8631951485749491198
+    second: WarHelmet_Bronze
+  - first:
+      213: -8034583900802448316
+    second: Cap_Yellow
+  - first:
+      213: -6764811727644659705
+    second: Cap_Cyan
+  - first:
+      213: -6417269959145024285
+    second: Beanie_Green
+  - first:
+      213: 8165882594325299744
+    second: Beanie_Blue
+  - first:
+      213: -5048449192083089279
+    second: Beanie_Purple
+  - first:
+      213: -5768441535959805489
+    second: Beanie_Cyan
+  - first:
+      213: 799981302249896103
+    second: Hats_37
+  - first:
+      213: 3017924222663299619
+    second: Hats_38
+  - first:
+      213: -582853280130513124
+    second: Hats_39
+  - first:
+      213: 3731004536528758062
+    second: Beanie_Red
+  - first:
+      213: -1736761719134041821
+    second: Beanie_Pink
+  - first:
+      213: -8321954484808708330
+    second: Beanie_White
+  - first:
+      213: -1046052231488306311
+    second: Beanie_Yellow
+  - first:
+      213: 7513846165521035275
+    second: Buckethat_Green
+  - first:
+      213: 5241079558590904747
+    second: Buckethat_Blue
+  - first:
+      213: -8370162713926079814
+    second: Buckethat_Purple
+  - first:
+      213: -290930609272659758
+    second: Buckethat_Cyan
+  - first:
+      213: -7058630288477625271
+    second: Buckethat_Red
+  - first:
+      213: -1087449716249070986
+    second: Buckethat_Pink
+  - first:
+      213: -556644016834148006
+    second: Buckethat_White
+  - first:
+      213: -4095979164366718045
+    second: Buckethat_Yellow
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CowboyHat
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2783b85f71a6010800000000000000
+      internalID: 1182784195508335311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FancyHat
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 168
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b315fa55699afbda0800000000000000
+      internalID: -5926832121448541893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlightlyLongerHat
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 134
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2652f232ed33efa90800000000000000
+      internalID: -7278322918618094238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenisHat
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4157c971e000790800000000000000
+      internalID: -7566031879410477842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmastreeHat
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 150
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a4619d4f53af20800000000000000
+      internalID: 3432692127742862960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeHat
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 150
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf1cd85f866fdbf0800000000000000
+      internalID: -297406284525985868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buckethat_Black
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ce41b445901fb20800000000000000
+      internalID: 3166322270659734654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buckethat_Orange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847d096ab8e6dff30800000000000000
+      internalID: 4610963139571275592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RainbowBuckethat
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 136
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5a6cc69ac492f70800000000000000
+      internalID: 9162939207420126677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beanie_Black
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d681396ce8b8c0800000000000000
+      internalID: -3983173933862562825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RainbowCap
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 122
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5853593, y: 0.48310757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3654c99e008f4a120800000000000000
+      internalID: 2424335182235190627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RainbowBeanie
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 118
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf6fd8c25d5bbd40800000000000000
+      internalID: 5601173171704131531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beanie_Orange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe84ffeea5301840800000000000000
+      internalID: 5192709395824545520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cap_Black
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 89
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.325, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f60f40a283570b0800000000000000
+      internalID: -5731613197636440256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cap_Red
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 89
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.325, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a1c05c0528c1430800000000000000
+      internalID: 3755019472735050316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingHelmet_Gold
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 86
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad50f35e7dcb4990800000000000000
+      internalID: -7400595620195443294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BruteHelmet_Gold
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 87
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.455, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d129d20ec33932fc0800000000000000
+      internalID: -3520808594005192163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cap_Pink
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.325, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6df2364f675c920800000000000000
+      internalID: 3009942717975221980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cap_White
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.325, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efaf2fa138890d00800000000000000
+      internalID: 939431744257372135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingHelmet_Silver
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 70
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afeb570bede84e80800000000000000
+      internalID: -8194037928304054366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BruteHelmet_Silver
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 71
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.455, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff14e4391183c70800000000000000
+      internalID: 8950923583769673725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cap_Orange
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 57
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.325, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8d4d0815727ed70800000000000000
+      internalID: 9072263205368420533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cap_Green
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 57
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.325, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129df6876913c95c0800000000000000
+      internalID: -4207433429535434463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingHelmet_Bronze
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 54
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e1ae00e5d24d1a0800000000000000
+      internalID: -6785748856774975854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BruteHelmet_Bronze
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 55
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.455, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc92e6c6c9d46d90800000000000000
+      internalID: -7105314864320307977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoilHat
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 54
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b582e781f2c640800000000000000
+      internalID: 5098903294060115713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cap_Blue
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.325, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53502e3ab1159b150800000000000000
+      internalID: 5888827166919099701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cap_Purple
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.325, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c22bf5d629d9f4b0800000000000000
+      internalID: -5406051116859579710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarHelmet_Gold
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.47, y: 0.82}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a961ba6f298e06b90800000000000000
+      internalID: -7250539682165221734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarHelmet_Silver
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 30
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.47, y: 0.82}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe1d0fc1a8faf1a0800000000000000
+      internalID: -6774829315578323270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarHelmet_Bronze
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 30
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.47, y: 0.82}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a0f759bd5253880800000000000000
+      internalID: -8631951485749491198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cap_Yellow
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 25
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.325, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4440992e28c6f7090800000000000000
+      internalID: -8034583900802448316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cap_Cyan
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 24
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.325, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700f751439f8e12a0800000000000000
+      internalID: -6764811727644659705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beanie_Green
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 103
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41069e8f641f6a0800000000000000
+      internalID: -6417269959145024285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beanie_Blue
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0220e4074fa035170800000000000000
+      internalID: 8165882594325299744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beanie_Purple
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 103
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1889747253e40f9b0800000000000000
+      internalID: -5048449192083089279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beanie_Cyan
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d18d4cf062ffa0800000000000000
+      internalID: -5768441535959805489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a83f8381ca1a1b00800000000000000
+      internalID: 799981302249896103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32294e24712d1e920800000000000000
+      internalID: 3017924222663299619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1746a1a70a49e7f0800000000000000
+      internalID: -582853280130513124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beanie_Red
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 119
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ea27bbd037c330800000000000000
+      internalID: 3731004536528758062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beanie_Pink
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 119
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329c48f0b68c5e7e0800000000000000
+      internalID: -1736761719134041821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beanie_White
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 119
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f0208dc7a728c80800000000000000
+      internalID: -8321954484808708330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beanie_Yellow
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 119
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97382a5a90dab71f0800000000000000
+      internalID: -1046052231488306311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buckethat_Green
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 138
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00ffc8074b864860800000000000000
+      internalID: 7513846165521035275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buckethat_Blue
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 138
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93f51171e0cb840800000000000000
+      internalID: 5241079558590904747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buckethat_Purple
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 138
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6734db5537db80800000000000000
+      internalID: -8370162713926079814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buckethat_Cyan
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 138
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0e30cf62866fbf0800000000000000
+      internalID: -290930609272659758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buckethat_Red
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 154
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9446a7e9625ba0e90800000000000000
+      internalID: -7058630288477625271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buckethat_Pink
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 154
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672ffdf9e3a98e0f0800000000000000
+      internalID: -1087449716249070986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buckethat_White
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 154
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59014647376648f0800000000000000
+      internalID: -556644016834148006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buckethat_Yellow
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 155
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab3584c6a82827c0800000000000000
+      internalID: -4095979164366718045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

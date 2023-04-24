@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a373de2bf1be240ad8b74699149204ab, type: 3}
+  m_Name: HeavyPurpleBlobPistol
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: 362202342338870056, guid: a6ea845cd44c74d829b9d9f683fa12bd,
+    type: 3}
+  itemName: Heavy Blobpistol
+  itemObject: {fileID: 5308888013870483371, guid: b75c596c8e993441db17fb1c0a65d3ae,
+    type: 3}
+  ItemIdentifier: 190
+  itemTooltip: It smells kinda wierd
+  itemStats:
+  - color: {r: 0.6627451, g: 0, b: 0.8509804, a: 1}
+    statName: Poison
+    value: 0
+    scaleWithPower: 0
+  scalesWithPower: 1
+  weaponType: 2
+  ammoType: 0
+  damage: 8
+  currentAmmo: 0
+  magazineSize: 5
+  timeToReload: 1.8
+  accuracy: 80
+  firerate: 0.6
+  bulletSpeed: 12
+  armorPiercing: 1

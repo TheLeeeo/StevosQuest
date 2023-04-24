@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a373de2bf1be240ad8b74699149204ab, type: 3}
+  m_Name: Tommygun
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: 21300000, guid: 31e96569c71fb485d964fd4146666ca8, type: 3}
+  itemName: Tommygun
+  itemObject: {fileID: 3950977800101950724, guid: 0c83649b0a151449a8b47bb9bbcb75dc,
+    type: 3}
+  ItemIdentifier: 222
+  itemTooltip: Give Tommy his gun back
+  itemStats: []
+  scalesWithPower: 1
+  weaponType: 1
+  ammoType: 1
+  damage: 3
+  currentAmmo: 0
+  magazineSize: 30
+  timeToReload: 4
+  accuracy: 80
+  firerate: 0.15
+  bulletSpeed: 20
+  armorPiercing: 0.6

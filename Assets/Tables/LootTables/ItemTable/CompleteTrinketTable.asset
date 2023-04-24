@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b0860bcee6b8449a865b10138b20562, type: 3}
+  m_Name: CompleteTrinketTable
+  m_EditorClassIdentifier: 
+  itemReferences:
+  - item:
+      itemData: {fileID: 11400000, guid: bfc287aa78606409e92467d8d50c7eee, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 097900e53b92f4c26bafd28a5e04d1c8, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: b8a0b0a36218241a3bab8454ba98d52c, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 845630553a827426d98fe3d8bd411fee, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: c1e7d18564e3248f2b215a46b34132df, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 4e6e564ea6fef4519a6b72ba2625076a, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 496a096f124aa481eb61e8ce839bb2c5, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: d7d417cd3fe4044229728b810211cfcf, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: b2745d546d17b4d2199ffff56561039a, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 8dd02bd65384f4e7099ebcf784576598, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: e3860c2fc971848bebb767ff6c49f2d3, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: c9cc8bc1de6074b129d23c669573a76f, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1

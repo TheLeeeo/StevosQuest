@@ -1,0 +1,321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b0860bcee6b8449a865b10138b20562, type: 3}
+  m_Name: CompleteArmorTable
+  m_EditorClassIdentifier: 
+  itemReferences:
+  - item:
+      itemData: {fileID: 11400000, guid: 62ee5897a4d3e4729a0bd77e2755f66d, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: f7fca9e202ee0448cb7415a729a3fc2d, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: d6069f6bd48de41c7ab6b8c25adff277, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 2bf85ccd967d94916b5403d005c18524, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 1be39ebd5b28244a7a549bf5de89a7e1, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 8b10da07e25b94ba6bf45cfe84b2b9e6, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 30dc9b7e4b7f848b0a7d2f97e7901d39, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 5f3ff405675054bb0bed77b09b7e4bcd, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 5f9f7ac60599f483e83cb9fe002353c1, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 7581208e4d2a84074be78f8abb884f96, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: ae49b238f2307497d843afbd9068f2f7, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: dda6c06d699dd4d9283154dad52bfd4e, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: 0df016a9e949645a3974aa581f515c3c, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 0b7a7e319a12e4d619519362b4b3f6de, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 94b282367578545dd942d5fdfb3997fb, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: afd0fb7a331b74370b0b9de18cf02ee5, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 8301d1ef1cd4d4456a332ae33bb80a54, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 5233aee294bfc4cd69e1f0204241f067, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: 16404b8d3d9374bf3ba41d8215c72a31, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: fe1124ff206344cd3bd16ab0162e03e7, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 9f20323067a7f4d448d93b6c1453dab1, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: 91f07051fd4304ff88658f2c84b50d00, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 24070732a1816414e8f65982710cf014, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 9b8e9d6fd682746f0a41f98a7a7ad89a, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: 85d42d17053554b7e95cb2bf204f1653, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 7683775388112498593185d194e58807, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: d37da7d4cd0b146bcbe03e1ab1d3fa1f, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: a1cc6f7337fef4c9c8eecf61d9949d8f, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: b75a317ef2c7b4a17ace76363ae83909, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 7f6183a2e301e4c0e811b84630547a87, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: aa6716a46281d48c59c7250862355c82, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 15cc1b5431a5249b3b8191d8442cc370, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: e8fa01ae48eb74604a18d6dcfa4983cd, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: ed3fb14ff3bd9426eb41c252f2741923, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 85ca1812e85114cebaf3ccb81631f113, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: e4a6f28b1b1c844d084c7b1d5ec2b08b, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: d88accdbbcdfa44dca3429fbf2d01ed0, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: a96d9ea8f6394407c8efb723e9e8c6fe, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: d30b106edfecd42b5a458958c14ee693, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: f51abf2c8e374465cb5066e6ea6b0aa8, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: 38ec37494b6fd4bad88497e8d4dcef91, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 62db1716147a041db9920023298a90f1, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: b8be0ec0539144a7987a09f82197c57f, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: d6348d2480132474e9d69f3bd2d64bb6, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 5c5ae9e8baabb4a52a64f2558a5e1e32, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 3
+  - item:
+      itemData: {fileID: 11400000, guid: ff32021ce52514b88ba87749b964ac4d, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 2
+  - item:
+      itemData: {fileID: 11400000, guid: dc02ef698bacb4ce6aef438cd83176ce, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 5b2a5a074b9704ad59cd920353b2a1ad, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 7321bdf9320794ebf9912046fb87f368, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 73d1294f66d444b50befa14e9ff07c7d, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 5562d05d23abb48d9b8e9bd548eb3d20, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1

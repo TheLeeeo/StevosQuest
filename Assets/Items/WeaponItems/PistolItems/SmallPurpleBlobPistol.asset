@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a373de2bf1be240ad8b74699149204ab, type: 3}
+  m_Name: SmallPurpleBlobPistol
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: 679510831052956209, guid: 731f7812693464058b03c9a97c8f24ae,
+    type: 3}
+  itemName: Blob pistol
+  itemObject: {fileID: 5308888013870483371, guid: 5919c7170b2224bed8b44d17ed9f5923,
+    type: 3}
+  ItemIdentifier: 193
+  itemTooltip: No one knows what is leaving this barrel
+  itemStats:
+  - color: {r: 0.6625971, g: 0, b: 0.8490566, a: 1}
+    statName: Poison
+    value: 0
+    scaleWithPower: 0
+  scalesWithPower: 1
+  weaponType: 1
+  ammoType: 0
+  damage: 5
+  currentAmmo: 0
+  magazineSize: 4
+  timeToReload: 1.25
+  accuracy: 80
+  firerate: 0.6
+  bulletSpeed: 12
+  armorPiercing: 1

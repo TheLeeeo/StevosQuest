@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f7ce6fd52694c21bfd42227b1130a7, type: 3}
+  m_Name: RifleAmmo
+  m_EditorClassIdentifier: 
+  itemType: 4
+  itemSprite: {fileID: -2368619161611480276, guid: 035c226b6c9d24caeac19bcf2373d518,
+    type: 3}
+  itemName: Rifle Ammo
+  itemObject: {fileID: 6616648665101846486, guid: 8ec3815ee170840e189ba13ed17d1fda,
+    type: 3}
+  ItemIdentifier: 115
+  baseItemCount: 20

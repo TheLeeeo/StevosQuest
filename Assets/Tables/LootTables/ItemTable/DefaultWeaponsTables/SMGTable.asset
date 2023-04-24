@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b0860bcee6b8449a865b10138b20562, type: 3}
+  m_Name: SMGTable
+  m_EditorClassIdentifier: 
+  itemReferences:
+  - item:
+      itemData: {fileID: 11400000, guid: d9e583700664941f088fd439678f9835, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 5b53c54a67daf43f2a34dcd0d7883ba3, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 7c7b765c9e2a840fd90c9ef1912db9fb, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 400dfc9bee1ad4961b6f4869c06eba5e, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 6eb835dae7189431b8184ca2754a3781, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1
+  - item:
+      itemData: {fileID: 11400000, guid: 0d207d45c26b2491fbabce49b7ff88b3, type: 2}
+      randomRarity: 1
+      _definedRarity: 0
+      itemCount: 0
+    weight: 1

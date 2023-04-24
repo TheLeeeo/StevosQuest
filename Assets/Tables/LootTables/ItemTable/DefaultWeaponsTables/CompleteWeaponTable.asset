@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 761e30803736d4e6482d0a77ea0617c3, type: 3}
+  m_Name: CompleteWeaponTable
+  m_EditorClassIdentifier: 
+  tableReferences:
+  - item: {fileID: 11400000, guid: 8849a104aa05b430dbba87cf50e7b923, type: 2}
+    weight: 3
+  - item: {fileID: 11400000, guid: 4093838f5ae6c469a98ec35730ac4488, type: 2}
+    weight: 3
+  - item: {fileID: 11400000, guid: 037de173c88784ee0960ba0f6699fadd, type: 2}
+    weight: 3
+  - item: {fileID: 11400000, guid: 90289618644b045318f766a2cace8051, type: 2}
+    weight: 2
+  - item: {fileID: 11400000, guid: feb3cb92150d34a8b9f8b837d1156988, type: 2}
+    weight: 2
+  - item: {fileID: 11400000, guid: 938e6d4567ca84ec9b1765d74c5ed680, type: 2}
+    weight: 2
+  - item: {fileID: 11400000, guid: 4678e1045ef714f9ca9e91be03becb47, type: 2}
+    weight: 2
+  - item: {fileID: 11400000, guid: f538b85a63ad94dd28ee26869ef64cda, type: 2}
+    weight: 2

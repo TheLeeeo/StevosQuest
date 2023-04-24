@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29cc385a07ee14c9896fc039f1a89f91, type: 3}
+  m_Name: FlyingBloblingTable
+  m_EditorClassIdentifier: 
+  PrefabReferences:
+  - item: {fileID: 9022733662417015280, guid: 6b498d6e47d10481dafcc7c8aa60a6ac, type: 3}
+    weight: 1
+  - item: {fileID: 1651024321614491953, guid: a6256483f06df4186b706be0cd23597f, type: 3}
+    weight: 1
+  - item: {fileID: 4334624093574609048, guid: 526887caf59a147cdb00aba1cfdc454b, type: 3}
+    weight: 1
+  - item: {fileID: 2728641037264498638, guid: aa5c275f31d954ae6bd9c92f7130e4d4, type: 3}
+    weight: 1
+  - item: {fileID: 430444729561115779, guid: aca600c962ea54636b8d5997ff330ade, type: 3}
+    weight: 1
+  - item: {fileID: 9027588593211904802, guid: 26790d9668a934990bec6d12449df672, type: 3}
+    weight: 1
+  - item: {fileID: 3174328360084828552, guid: e0aa3e7e4fd544c66a1711cfafd2ab28, type: 3}
+    weight: 1
+  - item: {fileID: 521337335223588112, guid: 4e9e99fa6ce394f8e8fe92a479e1aded, type: 3}
+    weight: 1

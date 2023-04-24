@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29cc385a07ee14c9896fc039f1a89f91, type: 3}
+  m_Name: ConeHeadTable
+  m_EditorClassIdentifier: 
+  PrefabReferences:
+  - item: {fileID: 1769531864499608060, guid: 811034f67ef0e4b57b64c24c93e31ad6, type: 3}
+    weight: 1
+  - item: {fileID: 1769531864499608060, guid: 4276d8d128d944ba1b8f622e6ef3e266, type: 3}
+    weight: 1
+  - item: {fileID: 1769531864499608060, guid: 7810e86ae14c74d098aa68f61c48c0de, type: 3}
+    weight: 1
+  - item: {fileID: 1769531864499608060, guid: 9620d03e9d50d4db79301302404b2f68, type: 3}
+    weight: 1
+  - item: {fileID: 1769531864499608060, guid: 39979ac0d16b644f0914d341b7add31f, type: 3}
+    weight: 1
+  - item: {fileID: 1769531864499608060, guid: be727c3fd563641ae911c18e4075c263, type: 3}
+    weight: 1

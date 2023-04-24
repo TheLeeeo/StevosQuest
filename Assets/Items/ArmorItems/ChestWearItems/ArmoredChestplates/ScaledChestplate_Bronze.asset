@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9b3ffb69e674ec5b5692f2c4baf053, type: 3}
+  m_Name: ScaledChestplate_Bronze
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: -4769611010709686755, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  itemName: Scaled Bronze Chestplate
+  itemObject: {fileID: 7715230247941950386, guid: 1caf0ccca75ad44949d6f7b3cd95d0d3,
+    type: 3}
+  ItemIdentifier: 7
+  itemTooltip: 
+  itemStats: []
+  scalesWithPower: 1
+  armorType: 1
+  armor: 40
+  chestSprite: {fileID: 3439654914021689938, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  shoulderSprite: {fileID: -4998734290977640809, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}

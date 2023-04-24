@@ -1,0 +1,1908 @@
+fileFormatVersion: 2
+guid: d777223795d884530aada98efb0f69c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3102973179360859532
+    second: Pants_UpperLeg_Black
+  - first:
+      213: 3154151221306193730
+    second: Pants_Black
+  - first:
+      213: 5388623656368484778
+    second: JointedLegwear_Upper_Gold
+  - first:
+      213: 4360012886275386904
+    second: JointedLegwear_Gold
+  - first:
+      213: -1965109144725101657
+    second: WorkersJeans_Upper
+  - first:
+      213: 6122660487117938458
+    second: WorkersJeans
+  - first:
+      213: -7018075312513742668
+    second: Pants_LowerLeg_Black
+  - first:
+      213: -1063582254919502226
+    second: JointedLegwear_Lower_Gold
+  - first:
+      213: -9073602487700243749
+    second: WorkersJeans_Lower
+  - first:
+      213: -1437002485045820652
+    second: Pants_UpperLeg_Red
+  - first:
+      213: 1082445444316355987
+    second: Pants_Red
+  - first:
+      213: -109546210617373856
+    second: PlatedLegwear_Upper_Gold
+  - first:
+      213: 2051714079108114969
+    second: PlatedLegwear_Gold
+  - first:
+      213: 121464009653243268
+    second: Pants_13
+  - first:
+      213: -2539548424022035405
+    second: Pants_14
+  - first:
+      213: 4783670432834795751
+    second: Pants_LowerLeg_Red
+  - first:
+      213: -1736200515205497545
+    second: PlatedLegwear_Lower_Gold
+  - first:
+      213: -8077590332201703285
+    second: Pants_17
+  - first:
+      213: -1847157537320978842
+    second: Pants_UpperLeg_Pink
+  - first:
+      213: 8998134564830739460
+    second: Pants_Pink
+  - first:
+      213: 4150284360023214946
+    second: ScaledLegwear_Upper_Gold
+  - first:
+      213: 1343807533443439599
+    second: ScaledLegwear_Gold
+  - first:
+      213: -7646047121567699168
+    second: Exoskeleton_Upper
+  - first:
+      213: -8772570299707378860
+    second: Exoskeleton
+  - first:
+      213: 4970345556276213835
+    second: Pants_LowerLeg_Pink
+  - first:
+      213: 6613021799279269504
+    second: ScaledLegwear_Lower_Gold
+  - first:
+      213: 7060439496767468561
+    second: Exoskeleton_Lower
+  - first:
+      213: 1955312037517110499
+    second: Pants_UpperLeg_White
+  - first:
+      213: 4220388070053330321
+    second: Pants_White
+  - first:
+      213: 8930605434903445051
+    second: JointedLegwear_Upper_Silver
+  - first:
+      213: -6237325417074553272
+    second: JointedLegwear_Silver
+  - first:
+      213: 5100711722599357051
+    second: Hydraulic_Upper
+  - first:
+      213: -6941893538875325303
+    second: Hydraulic
+  - first:
+      213: 6090077222953485431
+    second: Pants_LowerLeg_White
+  - first:
+      213: 4771782068186994675
+    second: JointedLegwear_Lower_Silver
+  - first:
+      213: 9055414534048738766
+    second: Hydraulic_Lower
+  - first:
+      213: -747936282509538862
+    second: Pants_UpperLeg_Orange
+  - first:
+      213: -3177627898836137590
+    second: Pants_Orange
+  - first:
+      213: -8479011752940583904
+    second: PlatedLegwear_Upper_Silver
+  - first:
+      213: -6024308601303088532
+    second: PlatedLegwear_Silver
+  - first:
+      213: -4461270780320323497
+    second: Pants_40
+  - first:
+      213: -3648520989494176493
+    second: Pants_41
+  - first:
+      213: 2161640015195566336
+    second: Pants_LowerLeg_Orange
+  - first:
+      213: -7327510741696591563
+    second: PlatedLegwear_Lower_Silver
+  - first:
+      213: 2266829828568985505
+    second: Pants_44
+  - first:
+      213: -1710844046721195014
+    second: Pants_UpperLeg_Green
+  - first:
+      213: 6440045781837611188
+    second: Pants_Green
+  - first:
+      213: 6335880780184287833
+    second: ScaledLegwear_Upper_Silver
+  - first:
+      213: 7256862394761710568
+    second: ScaledLegwear_Silver
+  - first:
+      213: 841530899878853297
+    second: Pants_LowerLeg_Green
+  - first:
+      213: 3691541706210392463
+    second: ScaledLegwear_Lower_Silver
+  - first:
+      213: 716704447820579885
+    second: Pants_UpperLeg_Blue
+  - first:
+      213: -2504739082716265603
+    second: Pants_Blue
+  - first:
+      213: 3109349247945765894
+    second: JointedLegwear_Upper_Bronze
+  - first:
+      213: -7732430492375846162
+    second: JointedLegwear_Bronze
+  - first:
+      213: 6800056805612138861
+    second: Pants_LowerLeg_Blue
+  - first:
+      213: -7719696475114428676
+    second: JointedLegwear_Lower_Bronze
+  - first:
+      213: -8602126637288783847
+    second: Pants_UpperLeg_Purple
+  - first:
+      213: -2605100305853293039
+    second: Pants_Purple
+  - first:
+      213: -9168478038350789678
+    second: PlatedLegwear_Upper_Bronze
+  - first:
+      213: -6780015818215260126
+    second: PlatedLegwear_Bronze
+  - first:
+      213: 6654383019683339922
+    second: Pants_LowerLeg_Purple
+  - first:
+      213: -8078055013598556167
+    second: PlatedLegwear_Lower_Bronze
+  - first:
+      213: 1942560668528897689
+    second: Pants_UpperLeg_Yellow
+  - first:
+      213: -3175316591543519116
+    second: Pants_Yellow
+  - first:
+      213: 8069640951224941237
+    second: ScaledLegwear_Upper_Bronze
+  - first:
+      213: 2398558036011637947
+    second: ScaledLegwear_Bronze
+  - first:
+      213: 4363042221810556544
+    second: Pants_LowerLeg_Yellow
+  - first:
+      213: -1490472447331519988
+    second: ScaledLegwear_Lower_Bronze
+  - first:
+      213: -3332106495686976365
+    second: Pants_UpperLeg_Cyan
+  - first:
+      213: 291303896688685063
+    second: Pants_Cyan
+  - first:
+      213: -711616758955224169
+    second: Chainmail_Upper
+  - first:
+      213: -8403410897702730756
+    second: Chainmail_Legwear
+  - first:
+      213: -8299519769439179673
+    second: Pants_LowerLeg_Cyan
+  - first:
+      213: 591074940568900489
+    second: Chainmail_Lower
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pants_UpperLeg_Black
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c855e579aa9ff0b20800000000000000
+      internalID: 3102973179360859532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_Black
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 288
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f1d903dbc5cb20800000000000000
+      internalID: 3154151221306193730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedLegwear_Upper_Gold
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 300
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa13c125aac38ca40800000000000000
+      internalID: 5388623656368484778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedLegwear_Gold
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 288
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ee196ae90e18c30800000000000000
+      internalID: 4360012886275386904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkersJeans_Upper
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 300
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e9cbf4a78ab4e0800000000000000
+      internalID: -1965109144725101657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkersJeans
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 288
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f1cf6164f08f450800000000000000
+      internalID: 6122660487117938458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_LowerLeg_Black
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b80ea6cfa9ca9e90800000000000000
+      internalID: -7018075312513742668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedLegwear_Lower_Gold
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 290
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663d1203956d31f0800000000000000
+      internalID: -1063582254919502226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkersJeans_Lower
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 290
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdab6878c96141280800000000000000
+      internalID: -9073602487700243749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_UpperLeg_Red
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4138d797addbe0ce0800000000000000
+      internalID: -1437002485045820652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_Red
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 256
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d5735856e950f00800000000000000
+      internalID: 1082445444316355987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedLegwear_Upper_Gold
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b49a54d40da7ef0800000000000000
+      internalID: -109546210617373856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedLegwear_Gold
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 256
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a28e1a517297c10800000000000000
+      internalID: 2051714079108114969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 268
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d406c8fd68fa100800000000000000
+      internalID: 121464009653243268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 256
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3347348d926b1ccd0800000000000000
+      internalID: -2539548424022035405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_LowerLeg_Red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e838a7e9e2036240800000000000000
+      internalID: 4783670432834795751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedLegwear_Lower_Gold
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 258
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d735884d6c7e7e0800000000000000
+      internalID: -1736200515205497545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88ecf7c362a6ef80800000000000000
+      internalID: -8077590332201703285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_UpperLeg_Pink
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6663cc7a1049d56e0800000000000000
+      internalID: -1847157537320978842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_Pink
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 224
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c76e966bbcfdc70800000000000000
+      internalID: 8998134564830739460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledLegwear_Upper_Gold
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 236
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b0b04e2a5c89930800000000000000
+      internalID: 4150284360023214946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledLegwear_Gold
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 224
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febd365f4d926a210800000000000000
+      internalID: 1343807533443439599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exoskeleton_Upper
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 236
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f2f0747a8c3e590800000000000000
+      internalID: -7646047121567699168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exoskeleton
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 224
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453bcce9ac1914680800000000000000
+      internalID: -8772570299707378860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_LowerLeg_Pink
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 226
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48f8cc03f63af440800000000000000
+      internalID: 4970345556276213835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledLegwear_Lower_Gold
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 226
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08694f50a4c26cb50800000000000000
+      internalID: 6613021799279269504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exoskeleton_Lower
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 226
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11476f28058bbf160800000000000000
+      internalID: 7060439496767468561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_UpperLeg_White
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eca04d30f9a22b10800000000000000
+      internalID: 1955312037517110499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_White
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 192
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d33d1d694d19a30800000000000000
+      internalID: 4220388070053330321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedLegwear_Upper_Silver
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 204
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eb790a352efeb70800000000000000
+      internalID: 8930605434903445051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedLegwear_Silver
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 192
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e81c674919079a0800000000000000
+      internalID: -6237325417074553272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydraulic_Upper
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 204
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a9437794e59c640800000000000000
+      internalID: 5100711722599357051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydraulic
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c1ca2b9079af90800000000000000
+      internalID: -6941893538875325303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_LowerLeg_White
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77407d8b7fc448450800000000000000
+      internalID: 6090077222953485431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedLegwear_Lower_Silver
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 194
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f75ddf4286c83240800000000000000
+      internalID: 4771782068186994675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydraulic_Lower
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 194
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd62e38a8b4bad70800000000000000
+      internalID: 9055414534048738766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_UpperLeg_Orange
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9846ee9ebce95f0800000000000000
+      internalID: -747936282509538862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_Orange
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a894085034cc6e3d0800000000000000
+      internalID: -3177627898836137590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedLegwear_Upper_Silver
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 172
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0244d930cbf745a80800000000000000
+      internalID: -8479011752940583904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedLegwear_Silver
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 160
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62cff9ce3b556ca0800000000000000
+      internalID: -6024308601303088532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 172
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7586d24bcd16612c0800000000000000
+      internalID: -4461270780320323497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 160
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31594a1ad79dd5dc0800000000000000
+      internalID: -3648520989494176493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_LowerLeg_Orange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00170061420bffd10800000000000000
+      internalID: 2161640015195566336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedLegwear_Lower_Silver
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 162
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c051adc37f4a90800000000000000
+      internalID: -7327510741696591563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af2d1a08b5657f10800000000000000
+      internalID: 2266829828568985505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_UpperLeg_Green
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 140
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af36719676cd148e0800000000000000
+      internalID: -1710844046721195014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_Green
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 128
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b00fab8483af5950800000000000000
+      internalID: 6440045781837611188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledLegwear_Upper_Silver
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 140
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95afb1a20029de750800000000000000
+      internalID: 6335880780184287833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledLegwear_Silver
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 128
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb89a746ed85b460800000000000000
+      internalID: 7256862394761710568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_LowerLeg_Green
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba3bc215e7bdab00800000000000000
+      internalID: 841530899878853297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledLegwear_Lower_Silver
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89b5388f9dfa3330800000000000000
+      internalID: 3691541706210392463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_UpperLeg_Blue
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c945e5ee32f900800000000000000
+      internalID: 716704447820579885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_Blue
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c8af23116d3dd0800000000000000
+      internalID: -2504739082716265603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedLegwear_Upper_Bronze
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 108
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6047f6ebaa0a62b20800000000000000
+      internalID: 3109349247945765894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedLegwear_Bronze
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 96
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2f9837f63e0b490800000000000000
+      internalID: -7732430492375846162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_LowerLeg_Blue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d613dfee2a7ae5e50800000000000000
+      internalID: 6800056805612138861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedLegwear_Lower_Bronze
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf628f2e4f02ed490800000000000000
+      internalID: -7719696475114428676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_UpperLeg_Purple
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9100a7f366b1f9880800000000000000
+      internalID: -8602126637288783847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_Purple
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e5a510313d8dbd0800000000000000
+      internalID: -2605100305853293039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedLegwear_Upper_Bronze
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 76
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d381210dc503c080800000000000000
+      internalID: -9168478038350789678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedLegwear_Bronze
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 64
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22000cf098b88e1a0800000000000000
+      internalID: -6780015818215260126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_LowerLeg_Purple
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29edd97991e195c50800000000000000
+      internalID: 6654383019683339922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedLegwear_Lower_Bronze
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff0566b3cbf4ef80800000000000000
+      internalID: -8078055013598556167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_UpperLeg_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e6f4ac2ac55fa10800000000000000
+      internalID: 1942560668528897689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_Yellow
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 32
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478f4af22620fe3d0800000000000000
+      internalID: -3175316591543519116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledLegwear_Upper_Bronze
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba35bab0bf1dff60800000000000000
+      internalID: 8069640951224941237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledLegwear_Bronze
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 32
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcd1ad53d3694120800000000000000
+      internalID: 2398558036011637947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_LowerLeg_Yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9c0bc8c3ac8c30800000000000000
+      internalID: 4363042221810556544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledLegwear_Lower_Bronze
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c023c4db437c05be0800000000000000
+      internalID: -1490472447331519988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_UpperLeg_Cyan
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c5ec2ebcaf1c1d0800000000000000
+      internalID: -3332106495686976365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_Cyan
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700f0d3c95bea0400800000000000000
+      internalID: 291303896688685063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chainmail_Upper
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 12
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793524af354df16f0800000000000000
+      internalID: -711616758955224169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chainmail_Legwear
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf348cccf46116b80800000000000000
+      internalID: -8403410897702730756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants_LowerLeg_Cyan
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cee301ebe22dc80800000000000000
+      internalID: -8299519769439179673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chainmail_Lower
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9839e3cd68be33800800000000000000
+      internalID: 591074940568900489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 931401816a71546adae93e8ba0e270f8, type: 3}
+  m_Name: ProximityGrenade
+  m_EditorClassIdentifier: 
+  itemType: 3
+  itemSprite: {fileID: -3046266304801004083, guid: baedbef6bbaef4c42964b48b14def384,
+    type: 3}
+  itemName: Proximity mine
+  itemObject: {fileID: 3657221776566890209, guid: 327f656bba64f4a56984c36d95b7f7b8,
+    type: 3}
+  ItemIdentifier: 162
+  itemTooltip: Make sure to let go
+  itemStats:
+  - color: {r: 0, g: 0, b: 0, a: 0}
+    statName: Explosive Damage
+    value: 0
+    scaleWithPower: 0
+  scalesWithPower: 1
+  stackSize: 10

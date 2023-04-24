@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8c7ddd118f7143be8b7f6b9f0cd9e50, type: 3}
+  m_Name: WhitePants
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: 4220388070053330321, guid: d777223795d884530aada98efb0f69c2,
+    type: 3}
+  itemName: White Pants
+  itemObject: {fileID: 7715230247941950386, guid: 3855456c6aa22414e9ae7ef419716fab,
+    type: 3}
+  ItemIdentifier: 109
+  itemTooltip: Collect a full colored set for a buff
+  itemStats: []
+  scalesWithPower: 1
+  armorType: 2
+  armor: 10
+  upperLegSprite: {fileID: 1955312037517110499, guid: d777223795d884530aada98efb0f69c2,
+    type: 3}
+  lowerLegSprite: {fileID: 6090077222953485431, guid: d777223795d884530aada98efb0f69c2,
+    type: 3}

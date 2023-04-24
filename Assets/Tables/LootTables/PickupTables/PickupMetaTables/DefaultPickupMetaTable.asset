@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2f6e9123665e4865a45179f50e2293a, type: 3}
+  m_Name: DefaultPickupMetaTable
+  m_EditorClassIdentifier: 
+  tableReferences:
+  - item: {fileID: 11400000, guid: ae045c340e4914552b79b4be510d34f5, type: 2}
+    weight: 5
+  - item: {fileID: 11400000, guid: aa1a94a3bdcb948cdaea84549ff30384, type: 2}
+    weight: 2
+  - item: {fileID: 11400000, guid: 6e3bb4df6914843a9ba3e0e749328d05, type: 2}
+    weight: 2

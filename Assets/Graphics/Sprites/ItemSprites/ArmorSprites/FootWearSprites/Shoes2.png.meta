@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 395ba08f3a78a4d3aaba47cc2099a2a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3711867242876651019
+    second: Sneaker_Black_Display
+  - first:
+      213: -3922405805298137126
+    second: Sneaker_Black
+  - first:
+      213: -2119924971089641661
+    second: JointedBoot_Gold_Display
+  - first:
+      213: -968913001378939952
+    second: JointedBoot_Gold
+  - first:
+      213: 6343051285381222524
+    second: HammerFoor_Display
+  - first:
+      213: 8392218575077242338
+    second: HammerFoot
+  - first:
+      213: 7571763668649417322
+    second: Sneaker_Red_Display
+  - first:
+      213: 5781372042478390134
+    second: Sneaker_Red
+  - first:
+      213: 440085314310857541
+    second: PlatedBoot_Gold_Display
+  - first:
+      213: -7247248809091785550
+    second: PlatedBoot_Gold
+  - first:
+      213: 7037985974422835243
+    second: Sneaker_Pink_Display
+  - first:
+      213: 4657234888746173306
+    second: Sneaker_Pink
+  - first:
+      213: 42701415808050195
+    second: ScaledBoot_Gold_Display
+  - first:
+      213: 9198384439284044148
+    second: ScaledBoot_Gold
+  - first:
+      213: 8443366974200153169
+    second: Sneaker_White_Display
+  - first:
+      213: 3467526872670446980
+    second: Sneaker_White
+  - first:
+      213: 3857423121629666630
+    second: JointedBoot_Silver_Display
+  - first:
+      213: -2824569128832082592
+    second: JointedBoot_Silver
+  - first:
+      213: -1785554106083315111
+    second: Sneaker_Orange_Display
+  - first:
+      213: 9040116092556407748
+    second: Sneaker_Orange
+  - first:
+      213: 1920459124139618358
+    second: PlatedBoot_Silver_Display
+  - first:
+      213: -9006010581426393473
+    second: PlatedBoot_Silver
+  - first:
+      213: 1701085940523517561
+    second: Sneaker_Green_Display
+  - first:
+      213: 7041500875536432192
+    second: Sneaker_Green
+  - first:
+      213: 4669521918296460114
+    second: ScaledBoot_Silver_Display
+  - first:
+      213: 7669040319575708894
+    second: ScaledBoot_Silver
+  - first:
+      213: -8065932406811959397
+    second: Sneaker_Blue_Display
+  - first:
+      213: -7989864817453126064
+    second: Sneaker_Blue
+  - first:
+      213: -4653911565566135554
+    second: JointedBoot_Bronze_Display
+  - first:
+      213: 2186318649370324626
+    second: JointedBoot_Bronze
+  - first:
+      213: 4730665784870449197
+    second: Sneaker_Purple_Display
+  - first:
+      213: 6270604891915935067
+    second: Sneaker_Purple
+  - first:
+      213: -2238829692278258295
+    second: PlatedBoot_Bronze_Display
+  - first:
+      213: -4245606040137243691
+    second: PlatedBoot_Bronze
+  - first:
+      213: -8961012487936440672
+    second: Sneaker_Yellow_Display
+  - first:
+      213: -6065133182764966175
+    second: Sneaker_Yellow
+  - first:
+      213: -8039904004793584226
+    second: ScaledBoot_Bronze_Display
+  - first:
+      213: 4468382372776190728
+    second: ScaledBoot_Bronze
+  - first:
+      213: -6021796345522709060
+    second: Sneaker_Cyan_Display
+  - first:
+      213: -657854330575778010
+    second: Sneaker_Cyan
+  - first:
+      213: 6893809801747643706
+    second: ChainBoot_Display
+  - first:
+      213: 5019429663566357242
+    second: ChainBoot
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sneaker_Black_Display
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9bdeea86ccc7cc0800000000000000
+      internalID: -3711867242876651019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Black
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 148
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7464ea3b0d099c0800000000000000
+      internalID: -3922405805298137126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedBoot_Gold_Display
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fb8bb78738492e0800000000000000
+      internalID: -2119924971089641661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedBoot_Gold
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 148
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbfc8e32cabd82f0800000000000000
+      internalID: -968913001378939952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerFoor_Display
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c709b31898b070850800000000000000
+      internalID: 6343051285381222524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerFoot
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5f9e48456277470800000000000000
+      internalID: 8392218575077242338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Red_Display
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a9e0190fe441960800000000000000
+      internalID: 7571763668649417322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Red
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 132
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b8c4add3f8b3050800000000000000
+      internalID: 5781372042478390134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedBoot_Gold_Display
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5436d5ef24f7b1600800000000000000
+      internalID: 440085314310857541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedBoot_Gold
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 132
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc163f0b999c6b90800000000000000
+      internalID: -7247248809091785550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Pink_Display
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2097a374f2fba160800000000000000
+      internalID: 7037985974422835243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Pink
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 116
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73854bc472d1a040800000000000000
+      internalID: 4657234888746173306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledBoot_Gold_Display
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31425a026b4b79000800000000000000
+      internalID: 42701415808050195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledBoot_Gold
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 116
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471910399e937af70800000000000000
+      internalID: 9198384439284044148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_White_Display
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1540775378ddc2570800000000000000
+      internalID: 8443366974200153169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_White
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 100
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a4a6a1512f1030800000000000000
+      internalID: 3467526872670446980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedBoot_Silver_Display
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d5d1144e1588530800000000000000
+      internalID: 3857423121629666630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedBoot_Silver
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 100
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ddd60b75d1dc8d0800000000000000
+      internalID: -2824569128832082592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Orange_Display
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952f9a330007837e0800000000000000
+      internalID: -1785554106083315111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Orange
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 84
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3fd1980b1f47d70800000000000000
+      internalID: 9040116092556407748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedBoot_Silver_Display
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630fffbf567d6aa10800000000000000
+      internalID: 1920459124139618358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedBoot_Silver
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 84
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eaba29719340380800000000000000
+      internalID: -9006010581426393473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Green_Display
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976c05176a87b9710800000000000000
+      internalID: 1701085940523517561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Green
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 68
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c73f32dbf68b160800000000000000
+      internalID: 7041500875536432192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledBoot_Silver_Display
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b06fac1797dc040800000000000000
+      internalID: 4669521918296460114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledBoot_Silver
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 68
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed45570d987ed6a60800000000000000
+      internalID: 7669040319575708894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Blue_Display
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f59ad063d001090800000000000000
+      internalID: -8065932406811959397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Blue
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 52
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ea058d74c4e1190800000000000000
+      internalID: -7989864817453126064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedBoot_Bronze_Display
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2395ea61cf96fb0800000000000000
+      internalID: -4653911565566135554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JointedBoot_Bronze
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 52
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ea78d5a3d575e10800000000000000
+      internalID: 2186318649370324626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Purple_Display
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d203c4a9773b6a140800000000000000
+      internalID: 4730665784870449197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Purple
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 36
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dd9751de9a50750800000000000000
+      internalID: 6270604891915935067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedBoot_Bronze_Display
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9854827b1441ee0e0800000000000000
+      internalID: -2238829692278258295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatedBoot_Bronze
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 36
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3ed59fcc39415c0800000000000000
+      internalID: -4245606040137243691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Yellow_Display
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a685b4ae9614a380800000000000000
+      internalID: -8961012487936440672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Yellow
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 20
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee1cd5318154dba0800000000000000
+      internalID: -6065133182764966175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledBoot_Bronze_Display
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95b906a7e58c6090800000000000000
+      internalID: -8039904004793584226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaledBoot_Bronze
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 20
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80321f1f712e20e30800000000000000
+      internalID: 4468382372776190728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Cyan_Display
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd9f5be0284e6ca0800000000000000
+      internalID: -6021796345522709060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneaker_Cyan
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f0418c8f4ded6f0800000000000000
+      internalID: -657854330575778010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBoot_Display
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d364e5d7bbbaf50800000000000000
+      internalID: 6893809801747643706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainBoot
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af26ee75fa898a540800000000000000
+      internalID: 5019429663566357242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

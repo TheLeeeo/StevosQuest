@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fa84916e8cece164ead68f2f275d71fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WalkableDebugNodeObject: {fileID: 8334423471284306022, guid: 32107f368bc7f43b2bc68414b251f0a6,
+      type: 3}
+  - EdgeDebugNodeObject: {fileID: 2874341703931645380, guid: d03c43da359384fa39054be325324b6f,
+      type: 3}
+  - DangerDebugNodeObject: {fileID: 7783243731892731042, guid: e80905ccad24e47dd8b3125b58f3258c,
+      type: 3}
+  - GroundDebugNodeObject: {fileID: 563391388707997535, guid: 66125202d12244945a0ec82ff7172cd5,
+      type: 3}
+  - DropZoneDebugNodeObject: {fileID: 563391388707997535, guid: 66125202d12244945a0ec82ff7172cd5,
+      type: 3}
+  - DL_BoundaryGameObject: {instanceID: 0}
+  - UR_BoundaryGameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

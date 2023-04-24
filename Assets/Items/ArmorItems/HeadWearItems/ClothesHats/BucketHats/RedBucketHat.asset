@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119111843247843a3b59d6dbd6f19fcb, type: 3}
+  m_Name: RedBucketHat
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: -7058630288477625271, guid: 17d68c4a1116a45599d89250779bdb81,
+    type: 3}
+  itemName: Red Bucket Hat
+  itemObject: {fileID: 3927865405252004078, guid: a361d51c5be924e73a66c4634a0a2542,
+    type: 3}
+  ItemIdentifier: 76
+  itemTooltip: Collect a full colored set for a buff
+  itemStats:
+  - color: {r: 0.8867924, g: 0, b: 0, a: 1}
+    statName: 'Buff: Health'
+    value: 0
+    scaleWithPower: 0
+  scalesWithPower: 1
+  armorType: 0
+  armor: 10

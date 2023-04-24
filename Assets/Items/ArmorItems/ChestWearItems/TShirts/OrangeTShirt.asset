@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9b3ffb69e674ec5b5692f2c4baf053, type: 3}
+  m_Name: OrangeTShirt
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: 1869961805298787542, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  itemName: Orange T-Shirt
+  itemObject: {fileID: 7715230247941950386, guid: b7116105ff33b4894aaca21baa415aca,
+    type: 3}
+  ItemIdentifier: 19
+  itemTooltip: Collect a full colored set for a buff
+  itemStats: []
+  scalesWithPower: 1
+  armorType: 1
+  armor: 10
+  chestSprite: {fileID: -8278196380978326576, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  shoulderSprite: {fileID: 2912462302233453221, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}

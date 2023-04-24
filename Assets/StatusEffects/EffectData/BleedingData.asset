@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f408d6d71d024656b90fb395d8c3e30, type: 3}
+  m_Name: BleedingData
+  m_EditorClassIdentifier: 
+  EffectName: Bleeding
+  ToolTip: Deals damage over time
+  EffectSprite: {fileID: -8592809787556698316, guid: 2c9770fa704b5406cb46d56f7b264a7a,
+    type: 3}
+  IsNegative: 1
+  EffectType: 6
+  EffectObject: {fileID: 2964316348251502601, guid: 3cf89355407df4acf938b56cd93beb45,
+    type: 3}

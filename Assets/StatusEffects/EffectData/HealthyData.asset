@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f408d6d71d024656b90fb395d8c3e30, type: 3}
+  m_Name: HealthyData
+  m_EditorClassIdentifier: 
+  EffectName: Healthy
+  ToolTip: A stronger heart
+  EffectSprite: {fileID: 4313461389486502806, guid: 2c9770fa704b5406cb46d56f7b264a7a,
+    type: 3}
+  IsNegative: 0
+  EffectType: 18
+  EffectObject: {fileID: 7525776397690872923, guid: 430cd2aef0ce24bb5bc027274d904290,
+    type: 3}

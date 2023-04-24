@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a373de2bf1be240ad8b74699149204ab, type: 3}
+  m_Name: HandHeldGrenadeLauncher
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: 21300000, guid: 80e98cb92b6944e349101a251bf447dc, type: 3}
+  itemName: Handheld Grenadelauncher
+  itemObject: {fileID: 8614989096097814087, guid: f50cd553ad56e4322bac83c8eedf086b,
+    type: 3}
+  ItemIdentifier: 175
+  itemTooltip: It might blow your fingers off
+  itemStats: []
+  scalesWithPower: 1
+  weaponType: 0
+  ammoType: 6
+  damage: 30
+  currentAmmo: 0
+  magazineSize: 1
+  timeToReload: 1
+  accuracy: 75
+  firerate: 1
+  bulletSpeed: 15
+  armorPiercing: 1.2

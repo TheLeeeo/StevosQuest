@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9b3ffb69e674ec5b5692f2c4baf053, type: 3}
+  m_Name: PinkTShirt
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: -8087423377682051163, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  itemName: Pink T-Shirt
+  itemObject: {fileID: 7715230247941950386, guid: dce9ac7d2d6414472a7e5099c7d82783,
+    type: 3}
+  ItemIdentifier: 20
+  itemTooltip: Collect a full colored set for a buff
+  itemStats: []
+  scalesWithPower: 1
+  armorType: 1
+  armor: 10
+  chestSprite: {fileID: -9133142720896498367, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}
+  shoulderSprite: {fileID: 3729876405736147528, guid: 2eda435f6fcc54a45a57d1e3c7a5911b,
+    type: 3}

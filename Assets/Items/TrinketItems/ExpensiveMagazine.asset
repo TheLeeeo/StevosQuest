@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43252368661304ba49dbafb7f29144ad, type: 3}
+  m_Name: ExpensiveMagazine
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemSprite: {fileID: 21300000, guid: 73956123cb0c04639a7466c2818d6cf5, type: 3}
+  itemName: Expensive Magazine
+  itemObject: {fileID: 4144127356442569139, guid: 9fa70cd2fb5364bd88bea01e36831539,
+    type: 3}
+  ItemIdentifier: 139
+  itemTooltip: The wealthy makes better killers
+  itemStats:
+  - color: {r: 1, g: 0, b: 0.6079836, a: 1}
+    statName: More bullets per magazine
+    value: 1.4
+    scaleWithPower: 1
+  - color: {r: 0.7137255, g: 0, b: 1, a: 1}
+    statName: Faster reloads
+    value: 1.5
+    scaleWithPower: 1
+  scalesWithPower: 1
+  fullDurability: 5

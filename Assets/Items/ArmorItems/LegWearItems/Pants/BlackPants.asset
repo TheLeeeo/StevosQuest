@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8c7ddd118f7143be8b7f6b9f0cd9e50, type: 3}
+  m_Name: BlackPants
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemSprite: {fileID: 3154151221306193730, guid: d777223795d884530aada98efb0f69c2,
+    type: 3}
+  itemName: Black Pants
+  itemObject: {fileID: 7715230247941950386, guid: 8b2155a8c316549d9858908bed5fae09,
+    type: 3}
+  ItemIdentifier: 101
+  itemTooltip: Collect a full colored set for a buff
+  itemStats: []
+  scalesWithPower: 1
+  armorType: 2
+  armor: 10
+  upperLegSprite: {fileID: 3102973179360859532, guid: d777223795d884530aada98efb0f69c2,
+    type: 3}
+  lowerLegSprite: {fileID: -7018075312513742668, guid: d777223795d884530aada98efb0f69c2,
+    type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 931401816a71546adae93e8ba0e270f8, type: 3}
+  m_Name: FireStaff
+  m_EditorClassIdentifier: 
+  itemType: 3
+  itemSprite: {fileID: 7743495099924969203, guid: 6877496b7b59a4d5ab44340c9fbc6f30,
+    type: 3}
+  itemName: Fire Staff
+  itemObject: {fileID: 3657221776566890209, guid: 8a404eb3e96024d1581f2bb0d7e43075,
+    type: 3}
+  ItemIdentifier: 157
+  itemTooltip: To fry chicken on the go
+  itemStats:
+  - color: {r: 1, g: 0.40784314, b: 0, a: 1}
+    statName: Spawns a ball of fire
+    value: 0
+    scaleWithPower: 0
+  scalesWithPower: 1
+  stackSize: 20
